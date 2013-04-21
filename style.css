@@ -70,6 +70,7 @@ article{
     display: block;
     background: url(img/entreprise.png) center no-repeat;
     margin-right: 56px;
+    float: right;
 }
 
 .cadre{
