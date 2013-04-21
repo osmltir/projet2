@@ -19,7 +19,7 @@
             <a href="famille.php"><div class="icone" id="famille"></div></a>
             <a href="tireur.php"><div class="icone" id="tireur"></div></a>
             <a href="entreprise.php"><div class="icone" id="entreprise"></div></a>
-            <div class="cadre" id="famille1">Accueil Grand Public</a></div>
+            <div class="cadre" id="famille1">Accueil Grand Public</div>
             <div class="cadre" id="tireur1">Accueil Tireur</div>
             <div class="cadre" id="entre1">Accueil Entreprise</div>
         </section>
