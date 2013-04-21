@@ -17,7 +17,7 @@ body{
 }
 
 header{
-    widht: 700px;
+    width: 700px;
     height: 120px;
     margin: auto;
 }
@@ -52,12 +52,14 @@ article{
 }
 
 #famille{
+    display: block;
     background: url(img/famille.jpeg) center no-repeat;
     float: right;
     margin-left: 58px;
 }
 
 #tireur{
+    display: block;
     background: url(img/tireur.png) center no-repeat;
     float: right;
     margin-right: 58px;
@@ -65,6 +67,7 @@ article{
 }
 
 #entreprise{
+    display: block;
     background: url(img/entreprise.png) center no-repeat;
     margin-right: 56px;
 }
