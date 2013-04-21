@@ -34,6 +34,10 @@ article{
     margin: auto;
 }
 
+footer{
+
+}
+
 .titre{
     color: yellow;
     font-family: cursive;
@@ -49,6 +53,17 @@ article{
     border-style:solid;
     border-color:yellow;
     border-radius: 80px;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+}
+
+#fc{
+    display: block;
+    background: url(img/like.png) center no-repeat;
 }
 
 #famille{
@@ -96,3 +111,4 @@ article{
     margin-right: 56px;
     float: left;
 }
+
