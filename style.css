@@ -11,14 +11,14 @@ html{
 }
 
 body{
-    width: 701px;
-    height: 1800px;
+    width: 700px;
+    height: 750px;
     margin: auto;
 }
 
 header{
     width: 700px;
-    height: 120px;
+    height: 100px;
     margin: auto;
 }
 
@@ -94,5 +94,5 @@ article{
 
 #entre1{
     margin-right: 56px;
-    float: right;
+    float: left;
 }

@@ -16,7 +16,7 @@
             <article>
                 <!-- logo LOMME TEAM en CSS -->
             </article>
-            <a href="famille.php"><div class="icone" id="famille"></div></a>
+            <a href="gpublic.php"><div class="icone" id="famille"></div></a>
             <a href="tireur.php"><div class="icone" id="tireur"></div></a>
             <a href="entreprise.php"><div class="icone" id="entreprise"></div></a>
             <div class="cadre" id="famille1">Accueil Grand Public</div>
