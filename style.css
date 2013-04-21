@@ -1,0 +1,93 @@
+/* 
+    Document   : style
+    Created on : 19 avr. 2013, 23:10:54
+    Author     : Loic
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+html{
+    background-color: black;
+}
+
+body{
+    width: 701px;
+    height: 1800px;
+    margin: auto;
+}
+
+header{
+    widht: 700px;
+    height: 120px;
+    margin: auto;
+}
+
+section{
+    margin: auto;
+    margin-top: 10px;
+}
+
+article{
+    width: 700px;
+    height: 350px;
+    background: url(img/logo1.png) center no-repeat;
+    margin: auto;
+}
+
+.titre{
+    color: yellow;
+    font-family: cursive;
+    margin-top: 20px;
+    text-align: center
+}
+
+.icone{
+    width: 150px;
+    height: 150px;
+    margin-top: 60px;
+    border-width:1px;
+    border-style:solid;
+    border-color:yellow;
+    border-radius: 80px;
+}
+
+#famille{
+    background: url(img/famille.jpeg) center no-repeat;
+    float: right;
+    margin-left: 58px;
+}
+
+#tireur{
+    background: url(img/tireur.png) center no-repeat;
+    float: right;
+    margin-right: 58px;
+    margin-left: 56px;
+}
+
+#entreprise{
+    background: url(img/entreprise.png) center no-repeat;
+    margin-right: 56px;
+}
+
+.cadre{
+    width: 150px;
+    color: yellow;
+    font-family: cursive;
+    margin-top: 20px;
+    text-align: center
+}
+
+#famille1{
+    float: right;
+    margin-left: 58px;
+}
+
+#tireur1{
+    float: right;
+    margin-right: 58px;
+    margin-left: 56px;
+}
+
+#entre1{
+    margin-right: 56px;
+}
