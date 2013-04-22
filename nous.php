@@ -9,7 +9,8 @@
     <body>
         <section>
             <article>
-                <p><h1>Notre politique interne</h1>
+                <p>
+                <h1>Notre politique interne</h1>
                 L’OSML SECTION TIR à la chance d’avoir à sa tête le plus jeune 
                 conseil d’administration de France ! En effet avec 30 ans de 
                 moyenne d’âge, l’asso obtient la première place mais attention 

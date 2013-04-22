@@ -31,9 +31,14 @@ section{
 article{
     width: 700px;
     height: 350px;
-    color: white;
+    color: black;
+    background: white
 }
 
 h1{
     color: red;
+}
+
+h3{
+   color: blue; 
 }
