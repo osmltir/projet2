@@ -1,0 +1,114 @@
+/* 
+    Document   : style
+    Created on : 19 avr. 2013, 23:10:54
+    Author     : Loic
+    Description:
+        CSS page d'accueil
+*/
+
+html{
+    background-color: black;
+    height: 800px;
+}
+
+body{
+    width: 700px;
+    height: 750px;
+    margin: auto;
+}
+
+header{
+    width: 700px;
+    height: 100px;
+    margin: auto;
+}
+
+section{
+    margin: auto;
+    margin-top: 10px;
+}
+
+article{
+    width: 700px;
+    height: 350px;
+    background: url(img/logo1.png) center no-repeat;
+    margin: auto;
+}
+
+footer{
+
+}
+
+.titre{
+    color: yellow;
+    font-family: cursive;
+    margin-top: 20px;
+    text-align: center
+}
+
+.icone{
+    width: 150px;
+    height: 150px;
+    margin-top: 60px;
+    border-width:1px;
+    border-style:solid;
+    border-color:yellow;
+    border-radius: 80px;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+}
+
+#fc{
+    display: block;
+    background: url(img/like.png) center no-repeat;
+}
+
+#famille{
+    display: block;
+    background: url(img/famille.jpeg) center no-repeat;
+    float: right;
+    margin-left: 58px;
+}
+
+#tireur{
+    display: block;
+    background: url(img/tireur.png) center no-repeat;
+    float: right;
+    margin-right: 58px;
+    margin-left: 56px;
+}
+
+#entreprise{
+    display: block;
+    background: url(img/entreprise.png) center no-repeat;
+    margin-right: 56px;
+    float: right;
+}
+
+.cadre{
+    width: 150px;
+    color: yellow;
+    font-family: cursive;
+    margin-top: 20px;
+    text-align: center
+}
+
+#famille1{
+    float: right;
+    margin-left: 58px;
+}
+
+#tireur1{
+    float: right;
+    margin-right: 58px;
+    margin-left: 56px;
+}
+
+#entre1{
+    margin-right: 56px;
+    float: left;
+}
