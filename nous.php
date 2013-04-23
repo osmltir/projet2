@@ -10,12 +10,26 @@
         <section>
             <article>
                 <div id="t1">
+                    <h2>Qui sommes-nous ?</h2>
+                    L’Omni Sport Municipal Lommois Section Tir est une association à
+                    but non lucratif type loi 1901, nous avons pour but de promouvoir
+                    le tir sportif. Le stand de tir situé dans le complexe de la piscine
+                    municipale, avenue de Dunkerque, il est la propriété de la ville de Lomme.<br/>
+                    <br/>
+                    L’intégralité des dirigeants, animateurs ou autres, sont bénévoles.
+                    Tout adhérent à jour de ses cotisations peu en faire parti sur simple
+                    demande auprès du conseil d’administration.<br/>
+                    <br/>
+                    Cette année marque nos 45 ans d’existance, de nombreuses manifestations
+                    rythmeront cette saison sportive 2007/2008 pour fêter cette anniversaire
+                    dont un échange Franco-Croate!
+                    <img src="img/213510.jpg"><img src="img/img2.png"><img src="img/img3.png">
                     <h1>Notre politique interne</h1>
                     L’OSML SECTION TIR à la chance d’avoir à sa tête le plus jeune 
                     conseil d’administration de France ! En effet avec 30 ans de 
                     moyenne d’âge, l’asso obtient la première place mais attention 
                     aux apparances, c’est l’un des clubs ayant la plus forte courbe 
-                    de croissance et d’évolution.<br/>
+                    de croissance et d’évolution.
                     <br/>
                     <h3>Nous basons notre développement sur 3 axes prioritaires :</h3>
                     <b>- la promotion</b>: Leader dans ce domaine! édition de 10.000
@@ -56,6 +70,7 @@
                     dizaines de milliers d’euros pour offrir à nos adhérents Lommois la chance ce
                     concourir dans les meilleurs conditions.
                 </div>
+                <div id="logo"><img src="img/img1.png"></div>
             </article>
         </section>
     </body>

@@ -8,17 +8,17 @@
 
 html{
     background-color: black;
-    height: 950px;
+    height: 1000px;
 }
 
 body{
-    width: 700px;
-    height: 950px;
+    width: 750px;
+    height: 1000px;
     margin: auto;
 }
 
 header{
-    width: 700px;
+    width: 750px;
     height: 100px;
     margin: auto;
 }
@@ -29,25 +29,47 @@ section{
 }
 
 article{
-    width: 700px;
-    height: 950px;
+    width: 750px;
+    height: 1250px;
     background: white;
 }
 
 #t1{
     float: right;
-    width: 500px;
-    height: 950px;
-    padding-right: 15px;
+    width: 580px;
+    padding-right: 10px;
     text-align: justify;
     background: white;
 }
 
 h1{
     color: red;
+    font-size: large;
 }
 
 h3{
    color: blue; 
    font-size: medium;
+}
+
+h2{
+    font-size: x-large;
+    text-decoration: underline;
+    color: red;
+}
+
+#titre1{
+    float: right;
+    width: 500px;
+    padding-right: 10px;
+}
+
+img{
+    margin-top: 10px;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
+#logo{
+    margin: auto
 }
