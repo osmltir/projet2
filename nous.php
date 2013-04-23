@@ -18,6 +18,20 @@
                 de croissance et d’évolution. <br/>
                 <br/>
                 <h3>Nous basons notre développement sur 3 axes prioritaires :</h3>
+                - la promotion: Leader dans ce domaine! édition de 10.000
+                flyers tous les 2 ans chez imprimeurs, l’impression d’une centaine 
+                d’affiches, de centaines de tracts diffusés à domicile, dans les
+                batiments municipaux, nombreuses parutions dans les médias, une 
+                gamme d’articles publicitaires variés (voir la boutique) ... , 
+                soit plusieurs centaines d’euros alloués par an! 
+                - l’accessibilité du tir à tous: jeune avec une école de
+                tir labellisée ESU, femme, personne en difficulté, personne 
+                handicapé, nous ne laissons personne de côté et équipons chacun 
+                de nos membres avec du matériel dernier cris. 
+                - le développement de nouvelles disciplines afin d’offrir
+                à tous nos adhérents la possibilité de pratiquer les disciplines de 
+                leurs choix. Développement du tir à l’arbalète Field, l’arbalète
+                Match, le pistolet standart, le pistolet vitesse, la cible mobile, ... .
                 </p>
             </article>
         </section>
