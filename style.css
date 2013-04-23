@@ -30,7 +30,7 @@ section{
 
 article{
     width: 750px;
-    height: 1250px;
+    height: 1530px;
     background: white;
 }
 
@@ -71,5 +71,8 @@ img{
 }
 
 #logo{
-    margin: auto
+    width: 350px;
+    height: 291px;
+    margin: auto;
+    margin-top: 10px;
 }
