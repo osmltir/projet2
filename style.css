@@ -8,12 +8,12 @@
 
 html{
     background-color: black;
-    height: 800px;
+    height: 1000px;
 }
 
 body{
     width: 700px;
-    height: 750px;
+    height: 950px;
     margin: auto;
 }
 
@@ -30,9 +30,8 @@ section{
 
 article{
     width: 700px;
-    height: 350px;
-    color: black;
-    background: white
+    height: 800px;
+    background: white;
 }
 
 h1{
@@ -42,4 +41,11 @@ h1{
 h3{
    color: blue; 
    font-size: medium;
+}
+
+#t1{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-justify: auto;
 }
