@@ -8,7 +8,7 @@
 
 html{
     background-color: black;
-    height: 1000px;
+    height: 950px;
 }
 
 body{
@@ -30,7 +30,16 @@ section{
 
 article{
     width: 700px;
-    height: 800px;
+    height: 950px;
+    background: white;
+}
+
+#t1{
+    float: right;
+    width: 500px;
+    height: 950px;
+    padding-right: 15px;
+    text-align: justify;
     background: white;
 }
 
@@ -41,11 +50,4 @@ h1{
 h3{
    color: blue; 
    font-size: medium;
-}
-
-#t1{
-    width: 500px;
-    margin-left: auto;
-    margin-right: auto;
-    text-justify: auto;
 }
